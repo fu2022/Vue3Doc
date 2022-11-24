@@ -196,19 +196,3 @@ Modifiers are special postfixes denoted by a dot, which indicate that a directiv
 ```html
 <form @submit.prevent="onSubmit">...</form>
 ```
-```html
-```
-```html
-```
-```html
-```
-```html
-```
-```html
-```
-```html
-```
-```html
-```
-```html
-```
